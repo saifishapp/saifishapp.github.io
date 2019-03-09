@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /main-admin-zone
+Disallow: /ar-admin
