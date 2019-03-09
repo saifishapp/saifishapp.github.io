@@ -1,0 +1,16 @@
+{
+  "main.css": "/static/css/main.730c003b.chunk.css",
+  "main.js": "/static/js/main.89d81753.chunk.js",
+  "main.js.map": "/static/js/main.89d81753.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.5a76c85a.chunk.js": "/static/js/2.5a76c85a.chunk.js",
+  "static/js/2.5a76c85a.chunk.js.map": "/static/js/2.5a76c85a.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.72d6996a3f5ad0ad6cadef8d69d1fc31.js": "/precache-manifest.72d6996a3f5ad0ad6cadef8d69d1fc31.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.730c003b.chunk.css.map": "/static/css/main.730c003b.chunk.css.map",
+  "static/media/footer-comp.scss": "/static/media/coral-lower.f7e92cd7.png",
+  "static/media/login-comp.scss": "/static/media/fish-doodle.bf7be418.png",
+  "static/media/hero-comp.scss": "/static/media/fish-gang.1ef4a61e.png"
+}
